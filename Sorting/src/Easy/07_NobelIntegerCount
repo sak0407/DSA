@@ -1,0 +1,4 @@
+Find count of noble integer :
+
+  A[i] is a noble integer if count of element less than A[i] is equal to A[i];
+

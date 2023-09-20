@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hello-world-rest-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JavaWork/Kuberbnetes-2/01-hello-world-rest-api/target/hello-world-rest-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
